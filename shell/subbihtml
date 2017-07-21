@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# HTML script running for trail to check EOF
+
+cat << _EOF_
+<html>
+<head>
+	<title>
+		the title page
+	</title>
+</head>
+<body>
+	<h1>
+		My First Heading
+	</h1>
+
+</body>
+
+</html>
+
+_EOF_
